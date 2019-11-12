@@ -1,0 +1,2 @@
+# LAB-Draw-All-Grades
+Create one visualization filled with line graphs. For each penguin, draw a line showing the quiz scores of that penguin With so many penguins a legend and different colors would be meaningless, don't draw them. For something extra, add a hover effect for the lines(mouseover and mouseout are the names of the events). Have the selected line change color and display a picture of the penguin that that line represents.
