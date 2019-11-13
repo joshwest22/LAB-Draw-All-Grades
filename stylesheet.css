@@ -1,8 +1,16 @@
-.axis *
-{
+body {
+    background-color: #e5f0dd;
+}
+#xAxis {
     font-size: 18px;
 }
-.graph *:hover 
-{
-    fill: red;
+#yAxis {
+    font-size: 18px;
+}
+div
+{margin-left: 15%;
+    margin-right:50%;}
+h1 {
+    font-size: 50px;
+        margin-left:12%;
 }
