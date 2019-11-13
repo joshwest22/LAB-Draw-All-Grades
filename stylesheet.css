@@ -1,0 +1,8 @@
+.axis *
+{
+    font-size: 18px;
+}
+.graph *:hover 
+{
+    fill: red;
+}
